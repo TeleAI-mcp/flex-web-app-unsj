@@ -1,2 +1,3 @@
-# flex-web-app-unsj
-Automated issue comment bot repository
+# Flex Web App Unsj
+
+Automated issue comment bot repository.
